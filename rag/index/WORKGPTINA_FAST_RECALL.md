@@ -7,9 +7,10 @@
 - Esperimenti completati: 1 market scan, PARTIAL SUCCESS.
 - Opportunità prioritaria: audit recovery/CI per repository.
 - Lead qualificati: 0.
-- Pacchetto operativo: completo; playbook v1 e tre varianti di canale pronte.
-- Esperimento commerciale: READY / NOT STARTED; contatti 0.
-- Open loop: autorizzare e lanciare la validazione.
-- Next action: alla fine chiedere ad Alberto canale/account e prezzo; poi massimo 10 contatti mirati.
+- Capitale iniziale: EUR 0; crescita autofinanziata, massimo 25% del netto COLLECTED.
+- Canale scelto: Fiverr organico; LinkedIn gratuito backup; niente spese/Connects/ads.
+- Gig: bozza completa con pacchetti 59/119/179 EUR, non pubblicata.
+- Esperimento commerciale: READY / NOT STARTED; contatti e ordini 0.
+- Next action: confermare account Fiverr venditore e autorizzare la pubblicazione senza spese.
 - Recovery: `WORKGPTINA_AUTO_RECOVERY_PROMPT.md`.
 - Confine: scrittura solo `MATRIXNEO23/workGPTina`; GPTina read-only.

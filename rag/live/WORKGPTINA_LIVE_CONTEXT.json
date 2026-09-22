@@ -1,21 +1,21 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-22T11:07:00Z",
+  "updated_at": "2026-09-22T11:17:00Z",
   "mission": "Generare reddito reale, lecito e verificabile.",
   "active_projects": [],
   "active_experiments": [],
   "opportunities_under_evaluation": ["opportunity-repository-recovery-audit", "opportunity-android-local-ai-audit", "opportunity-multilingual-nlu-qa"],
   "relevant_customers": [],
-  "authorized_budgets": [],
+  "authorized_budgets": [{"scope": "initial commercial validation", "currency": "EUR", "initial": 0, "growth_rule": "max 25% of verified cumulative net COLLECTED revenue not already allocated", "available": 0}],
   "recent_costs": [],
   "verified_revenue": {"currency": "EUR", "collected": 0},
   "verified_profit": {"currency": "EUR", "amount": 0},
   "metrics": {"completed_experiments": 1, "collected_revenue_eur": 0, "qualified_leads": 0},
-  "last_micro_checkpoint": "rag/live/micro-checkpoints/2026/09/22/2026-09-22T110700Z--repository-audit-validation-ready.json",
-  "last_full_checkpoint": "checkpoints/2026-09-22-repository-audit-validation-ready.md",
-  "open_loops": ["open-loop-launch-repository-audit-validation"],
+  "last_micro_checkpoint": "rag/live/micro-checkpoints/2026/09/22/2026-09-22T111700Z--zero-budget-fiverr-ready.json",
+  "last_full_checkpoint": "checkpoints/2026-09-22-zero-budget-fiverr-ready.md",
+  "open_loops": ["open-loop-confirm-fiverr-account-and-publish"],
   "blockers": [],
   "pending_decisions": [],
-  "priorities": ["Validare offerta audit recovery e CI repository"],
-  "next_action": "Richiedere alla fine ad Alberto canale/account e prezzo; poi avviare il test con massimo 10 contatti mirati."
+  "priorities": ["Pubblicare e validare organicamente il Gig Fiverr", "Crescere soltanto con quota di incassi netti verificati"],
+  "next_action": "Confermare se Alberto possiede un account Fiverr utilizzabile come venditore; poi pubblicare senza ads o abbonamenti."
 }

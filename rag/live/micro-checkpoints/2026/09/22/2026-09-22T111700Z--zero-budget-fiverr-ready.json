@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "micro-20260922-zero-budget-fiverr-ready",
+  "created_at": "2026-09-22T11:17:00Z",
+  "trigger": "new_decision",
+  "summary": "Registrato budget zero e preparato Gig Fiverr organico completo.",
+  "changed": ["Budget autorizzato EUR 0", "Fiverr selezionato come canale organico", "Gig e metriche pronti"],
+  "project_ids": [],
+  "experiment_ids": ["experiment-fiverr-zero-budget-validation-prepared"],
+  "open_loop_ids": ["open-loop-confirm-fiverr-account-and-publish"],
+  "next_action": "Confermare account Fiverr venditore e autorizzare pubblicazione senza spese.",
+  "source_refs": ["checkpoints/2026-09-22-zero-budget-fiverr-ready.md"]
+}
+
