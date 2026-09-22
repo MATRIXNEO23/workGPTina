@@ -1,6 +1,6 @@
 [
   {"id":"where","query":"dove siamo rimasti","expected_any":["rag/live/WORKGPTINA_LIVE_CONTEXT.json","rag/index/CURRENT_CONTEXT.md"]},
-  {"id":"recent-project","query":"qual è il progetto più recente","expected_any":["rag/records/project/2026/09/bootstrap-workgptina.md"]},
+  {"id":"recent-project","query":"qual è il progetto più recente","expected_any":["rag/records/project/2026/09/bootstrap-workgptina-completed.md"]},
   {"id":"tried","query":"cosa abbiamo già provato esperimenti completati","expected_any":["checkpoints/2026-09-22-bootstrap-initial-state.md"]},
   {"id":"abandoned","query":"perché abbiamo abbandonato la vecchia strategia solo ricavo potenziale","expected_any":["rag/records/method/2026/09/opportunity-score-v0.md"],"all_statuses":true},
   {"id":"method","query":"qual è il metodo corrente per opportunità","expected_any":["rag/records/method/2026/09/opportunity-score-v1.md"],"forbidden":["rag/records/method/2026/09/opportunity-score-v0.md"]},

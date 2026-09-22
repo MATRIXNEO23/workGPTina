@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "micro-20260922-first-opportunity-selected",
+  "created_at": "2026-09-22T10:55:00Z",
+  "trigger": "new_decision",
+  "summary": "Bootstrap chiuso; selezionato audit recovery/CI come primo test commerciale.",
+  "changed": ["CI remota verificata verde", "Tre opportunità confrontate", "Primo test selezionato"],
+  "project_ids": ["project-bootstrap-workgptina-completed"],
+  "experiment_ids": ["experiment-first-market-scan"],
+  "open_loop_ids": ["open-loop-validate-repository-audit"],
+  "next_action": "Preparare pacchetto offerta audit repository, poi richiedere canale e prezzo ad Alberto.",
+  "source_refs": ["checkpoints/2026-09-22-first-opportunity-cycle.md"]
+}
+

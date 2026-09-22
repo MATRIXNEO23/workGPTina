@@ -2,8 +2,8 @@
 
 Domanda di recovery: **dove siamo rimasti?** La risposta corrente è qui e nel live context.
 
-La baseline tecnica è il progetto corrente ma non genera ricavi. Nessuna opportunità è ancora qualificata e nessun esperimento commerciale è stato eseguito. La priorità è uscire dall'infrastruttura con un piccolo ciclo di discovery: verificare risorse, domanda, costo di test, tempo al primo incasso e rischio; scegliere poche ipotesi; definire metriche CONTINUE/MODIFY/STOP prima dell'esecuzione.
+La baseline tecnica è chiusa e verificata. Il primo market scan è completato: esiste evidenza generale di domanda AI, ma nessun lead specifico qualificato. Sono state confrontate tre opportunità e selezionato l'audit recovery/CI di repository come primo test.
 
-**Cosa devo fare adesso?** Inventariare risorse reali e confrontare non più di tre opportunità supportate da evidenze.
+**Cosa devo fare adesso?** Preparare autonomamente offerta, scope, esclusioni e messaggio pilota; poi ottenere da Alberto l'autorizzazione concreta su canale/account e fascia EUR 49–99 prima di contattare terzi.
 
 Gli stati del denaro sono distinti: `POTENTIAL`, `QUALIFIED`, `QUOTED`, `CONTRACTED`, `INVOICED`, `COLLECTED`. Soltanto `COLLECTED` con evidenza alimenta il ricavo realizzato.
