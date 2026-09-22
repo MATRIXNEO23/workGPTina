@@ -3,7 +3,7 @@
   "repository": "MATRIXNEO23/workGPTina",
   "writable_repository": "MATRIXNEO23/workGPTina",
   "read_only_repositories": ["MATRIXNEO23/scodinzolina-conntinuity"],
-  "canonical_patterns": ["rag/records/**/*.md", "evidence/**/*.md", "offers/**/*.md", "checkpoints/**/*.md", "rag/live/micro-checkpoints/**/*.json", "rag/live/WORKGPTINA_LIVE_CONTEXT.json", "rag/index/WORKGPTINA_FAST_RECALL.md", "rag/index/CURRENT_CONTEXT.md", "rag/*.md", "WORKGPTINA_AUTO_RECOVERY_PROMPT.md", "README.md"],
+  "canonical_patterns": ["rag/records/**/*.md", "evidence/**/*.md", "offers/**/*", "checkpoints/**/*.md", "rag/live/micro-checkpoints/**/*.json", "rag/live/WORKGPTINA_LIVE_CONTEXT.json", "rag/index/WORKGPTINA_FAST_RECALL.md", "rag/index/CURRENT_CONTEXT.md", "rag/*.md", "WORKGPTINA_AUTO_RECOVERY_PROMPT.md", "README.md"],
   "projection": {"backend": "sqlite_fts5", "generation_root": "rag/index/.projection-generations", "pointer": "rag/index/.projection-current"},
   "policy": {"append_only_records": true, "preserve_superseded": true, "canonical_git_sources": true, "derived_projections_disposable": true, "no_secrets": true}
 }

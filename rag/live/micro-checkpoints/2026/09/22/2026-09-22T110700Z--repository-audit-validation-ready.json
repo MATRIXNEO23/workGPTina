@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "micro-20260922-repository-audit-validation-ready",
+  "created_at": "2026-09-22T11:07:00Z",
+  "trigger": "milestone",
+  "summary": "Pacchetto completo e test commerciale pronto ma non avviato.",
+  "changed": ["Creato playbook v1", "Preparati materiali multicanale", "Definiti sicurezza, scope e tracker"],
+  "project_ids": [],
+  "experiment_ids": ["experiment-repository-audit-validation-prepared"],
+  "open_loop_ids": ["open-loop-launch-repository-audit-validation"],
+  "next_action": "Alla fine chiedere ad Alberto canale/account e prezzo, poi avviare massimo 10 contatti mirati.",
+  "source_refs": ["checkpoints/2026-09-22-repository-audit-validation-ready.md"]
+}
+
