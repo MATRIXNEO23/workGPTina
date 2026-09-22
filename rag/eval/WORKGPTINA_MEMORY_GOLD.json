@@ -16,5 +16,6 @@
   {"id":"channel-current","query":"qual è il canale scelto TikTok Fiverr social","expected_any":["rag/records/decision/2026/09/product-before-channel.md"],"forbidden":["rag/records/decision/2026/09/zero-budget-channel-strategy.md"]},
   {"id":"channel-old","query":"perché Fiverr era stato scelto e poi sostituito","expected_any":["rag/records/decision/2026/09/zero-budget-channel-strategy.md","rag/records/error/2026/09/channel-first-premature-selection.md"],"all_statuses":true},
   {"id":"resources","query":"quali risorse e account abbiamo disponibili","expected_any":["evidence/2026/09/resource-inventory-v1.md"]},
-  {"id":"social-plan","query":"come usiamo TikTok YouTube Instagram e altri social","expected_any":["experiments/portfolio-demand-validation.md","rag/records/opportunity/2026/09/technical-content-led-acquisition.md"]}
+  {"id":"social-plan","query":"come usiamo TikTok YouTube Instagram e altri social","expected_any":["experiments/portfolio-demand-validation.md","rag/records/opportunity/2026/09/technical-content-led-acquisition.md"]},
+  {"id":"demand-signals","query":"quali prove abbiamo che la perdita di contesto agenti sia un problema reale","expected_any":["evidence/2026/09/public-continuity-demand-signals.md","rag/records/evidence/2026/09/public-continuity-demand-signals.md"]}
 ]
