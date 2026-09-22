@@ -1,4 +1,5 @@
 __pycache__/
+.venv/
 *.pyc
 rag/index/.projection-current
 rag/index/.projection-generations/
@@ -7,4 +8,3 @@ rag/index/*.sqlite3
 rag/index/*.jsonl
 rag/index/index_meta.json
 .coverage
-

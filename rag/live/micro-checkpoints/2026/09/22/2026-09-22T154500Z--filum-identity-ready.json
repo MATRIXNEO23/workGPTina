@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "micro-20260922-filum-identity-ready",
+  "created_at": "2026-09-22T15:45:00Z",
+  "trigger": "new_decision",
+  "summary": "FILUM scelto come nome pubblico provvisorio; pacchetto account a costo zero pronto.",
+  "changed": ["Identity v0", "Scan collisioni del nome", "Avatar provvisorio", "Bootstrap account", "Open loop aggiornato"],
+  "project_ids": [],
+  "experiment_ids": ["experiment-portfolio-demand-validation-prepared"],
+  "open_loop_ids": ["open-loop-create-filum-validation-accounts"],
+  "next_action": "Creare email e account FILUM; richiedere ad Alberto soltanto credenziali, CAPTCHA, OTP, dati personali o accettazione termini.",
+  "source_refs": ["checkpoints/2026-09-22-filum-identity-ready.md"]
+}
