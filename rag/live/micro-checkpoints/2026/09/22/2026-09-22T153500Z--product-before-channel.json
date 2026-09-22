@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "micro-20260922-product-before-channel",
+  "created_at": "2026-09-22T15:35:00Z",
+  "trigger": "new_decision",
+  "summary": "Corretta la selezione prematura di Fiverr; prodotto e domanda precedono il canale.",
+  "changed": ["Inventario risorse v1", "Tre ipotesi coordinate", "Script social multipiattaforma", "Decisioni e open loop precedenti superseded"],
+  "project_ids": [],
+  "experiment_ids": ["experiment-portfolio-demand-validation-prepared"],
+  "open_loop_ids": ["open-loop-execute-product-channel-validation"],
+  "next_action": "Verificare una sola volta account disponibili e limiti di rappresentazione, poi avviare il campione minimo.",
+  "source_refs": ["checkpoints/2026-09-22-product-before-channel-correction.md"]
+}
