@@ -20,3 +20,4 @@ python rag/work_memory.py build
 python rag/work_memory.py search "cosa devo fare adesso"
 python -m unittest discover -s tests -v
 ```
+

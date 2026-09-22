@@ -1,0 +1,16 @@
+[
+  {"id":"where","query":"dove siamo rimasti","expected_any":["rag/live/WORKGPTINA_LIVE_CONTEXT.json","rag/index/CURRENT_CONTEXT.md"]},
+  {"id":"recent-project","query":"qual è il progetto più recente","expected_any":["rag/records/project/2026/09/bootstrap-workgptina.md"]},
+  {"id":"tried","query":"cosa abbiamo già provato esperimenti completati","expected_any":["checkpoints/2026-09-22-bootstrap-initial-state.md"]},
+  {"id":"abandoned","query":"perché abbiamo abbandonato la vecchia strategia solo ricavo potenziale","expected_any":["rag/records/method/2026/09/opportunity-score-v0.md"],"all_statuses":true},
+  {"id":"method","query":"qual è il metodo corrente per opportunità","expected_any":["rag/records/method/2026/09/opportunity-score-v1.md"],"forbidden":["rag/records/method/2026/09/opportunity-score-v0.md"]},
+  {"id":"cost","query":"quanto è costato l'esperimento","expected_any":["rag/records/economics/2026/09/initial-zero-state.md"]},
+  {"id":"result","query":"quale risultato ha prodotto bootstrap","expected_any":["checkpoints/2026-09-22-bootstrap-initial-state.md"]},
+  {"id":"revenue","query":"quanto abbiamo realmente incassato","expected_any":["rag/records/economics/2026/09/initial-zero-state.md"]},
+  {"id":"margin","query":"quale margine abbiamo ottenuto","expected_any":["rag/records/economics/2026/09/initial-zero-state.md"]},
+  {"id":"next","query":"cosa devo fare adesso","expected_any":["rag/index/CURRENT_CONTEXT.md","rag/live/WORKGPTINA_LIVE_CONTEXT.json","rag/records/open_loop/2026/09/first-opportunity-cycle.md"]},
+  {"id":"old","query":"qual era la vecchia strategia","expected_any":["rag/records/method/2026/09/opportunity-score-v0.md"],"all_statuses":true},
+  {"id":"supersedes","query":"quale decisione metodo ha sostituito la strategia ricavo potenziale","expected_any":["rag/records/method/2026/09/opportunity-score-v1.md"]},
+  {"id":"errors","query":"quali errori non dobbiamo ripetere","expected_any":["rag/records/error/2026/09/infrastructure-trap.md"]},
+  {"id":"evidence","query":"quali evidenze supportano questa decisione bootstrap","expected_any":["rag/records/evidence/2026/09/bootstrap-study-record.md","evidence/2026/09/bootstrap-source-study.md"]}
+]

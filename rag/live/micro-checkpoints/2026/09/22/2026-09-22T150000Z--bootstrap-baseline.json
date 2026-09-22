@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "micro-20260922-bootstrap-baseline",
+  "created_at": "2026-09-22T15:00:00Z",
+  "trigger": "new_project",
+  "summary": "Baseline workGPTina inizializzata; nessun ricavo o esperimento economico ancora realizzato.",
+  "changed": ["Creata infrastruttura canonica", "Aperto il primo ciclo opportunità"],
+  "project_ids": ["project-bootstrap-workgptina"],
+  "experiment_ids": [],
+  "open_loop_ids": ["open-loop-first-opportunity-cycle"],
+  "next_action": "Raccogliere risorse, vincoli e domanda per confrontare fino a tre opportunità.",
+  "source_refs": ["checkpoints/2026-09-22-bootstrap-initial-state.md"]
+}
+

@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "updated_at": "2026-09-22T15:00:00Z",
+  "mission": "Generare reddito reale, lecito e verificabile.",
+  "active_projects": ["project-bootstrap-workgptina"],
+  "active_experiments": [],
+  "opportunities_under_evaluation": [],
+  "relevant_customers": [],
+  "authorized_budgets": [],
+  "recent_costs": [],
+  "verified_revenue": {"currency": "EUR", "collected": 0},
+  "verified_profit": {"currency": "EUR", "amount": 0},
+  "metrics": {"completed_experiments": 0, "collected_revenue_eur": 0},
+  "last_micro_checkpoint": "rag/live/micro-checkpoints/2026/09/22/2026-09-22T150000Z--bootstrap-baseline.json",
+  "last_full_checkpoint": "checkpoints/2026-09-22-bootstrap-initial-state.md",
+  "open_loops": ["open-loop-first-opportunity-cycle"],
+  "blockers": [],
+  "pending_decisions": [],
+  "priorities": ["Confrontare opportunità realistiche per il primo incasso"],
+  "next_action": "Analizzare risorse disponibili con Alberto e raccogliere evidenze di domanda per un massimo di tre opportunità."
+}
+
