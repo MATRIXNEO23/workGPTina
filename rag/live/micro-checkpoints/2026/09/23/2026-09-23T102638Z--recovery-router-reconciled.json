@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "micro-20260923-recovery-router-reconciled",
+  "created_at": "2026-09-23T10:26:38Z",
+  "trigger": "cold_start_recovery_and_router_reconciliation",
+  "summary": "Recovery completato dal main remoto; Fast Recall e Current Context riallineati allo stato social FILUM corrente.",
+  "changed": [
+    "HEAD remoto 18a9d273edfd81e649c047d3af6b953c66e9acf0 verificato",
+    "Confermati account FILUM gia creati e profili intenzionalmente vuoti",
+    "Rimosse dai router le istruzioni obsolete di creare gli account",
+    "Ripristinata come prossima azione l'attesa delle indicazioni GPTina e la definizione di un lavoro separato da GPTina"
+  ],
+  "project_ids": ["filum"],
+  "experiment_ids": [],
+  "open_loop_ids": ["open-loop-create-filum-validation-accounts"],
+  "next_action": "Attendere le indicazioni di GPTina; poi definire e validare un lavoro vendibile separato da GPTina.",
+  "source_refs": [
+    "rag/live/WORKGPTINA_LIVE_CONTEXT.json",
+    "projects/filum/PROJECT_STATE.md",
+    "rag/index/WORKGPTINA_FAST_RECALL.md",
+    "rag/index/CURRENT_CONTEXT.md"
+  ]
+}
