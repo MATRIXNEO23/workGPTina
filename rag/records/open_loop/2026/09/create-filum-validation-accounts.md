@@ -14,4 +14,4 @@ supersedes: [open-loop-execute-product-channel-validation]
 tags: [open-loop, filum, accounts, social, validation]
 ---
 
-Materiale autonomo completato: nome pubblico, descrittore, bio, handle candidati, avatar provvisorio, ordine di apertura e gate di sicurezza. Prossimo passo: creare l'email dedicata e gli account iniziali TikTok, Instagram e YouTube. Fermarsi soltanto davanti ai campi che richiedono Alberto (credenziali, CAPTCHA, OTP, dati personali o accettazione dei termini), poi completare i profili e avviare il campione misurabile.
+Completati: email dedicata `filumcontinuita@gmail.com`, canale YouTube FILUM con handle `@filumcontinuita` e logo canonico. Alberto ha rimandato la 2FA. Restano: inserire bio/descrizione nel canale YouTube, creare gli account iniziali TikTok e Instagram, registrare gli URL pubblici e poi preparare il primo campione misurabile. Fermarsi soltanto davanti ai campi che richiedono Alberto (credenziali, CAPTCHA, OTP, dati personali o accettazione dei termini).
