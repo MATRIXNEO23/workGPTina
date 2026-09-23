@@ -29,13 +29,15 @@ Ordine di prova, senza dichiararne la disponibilità finché la piattaforma non 
 
 Lo stesso identificativo va preferito su email, TikTok, Instagram, YouTube e altri canali. Il display name resta `FILUM` anche quando l'handle è più lungo.
 
-## Identità visiva provvisoria
+## Identità visiva canonica
 
 - fondo: navy quasi nero;
 - accento: filo continuo cyan-violetto;
 - simbolo: nodi/checkpoint collegati da un unico percorso;
-- avatar v0: `brand/assets/filum-avatar-v0.png`;
-- nessuna pretesa di logo registrato o definitivo.
+- logo canonico: `brand/assets/filum-logo-canonical.png`;
+- SHA-256: `9d20751172c3257661d008811e1cad65b9e26b6156a7fd44ce2c6ec2ca18f238`;
+- il precedente `brand/assets/filum-avatar-v0.png` è storico e non va più usato;
+- nessuna pretesa di marchio registrato.
 
 ## Vincoli
 
